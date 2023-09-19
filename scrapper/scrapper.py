@@ -53,7 +53,7 @@ class Scrapper:
         for i in range(len(copy_rights)):
             copy_rights[i] = copy_rights[i].replace('\n', '')
         data = {
-            'copyright'
+            'copyright': copy_rights
         }    
         return data
 
