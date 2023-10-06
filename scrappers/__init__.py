@@ -1,0 +1,2 @@
+from scrappers.google_scrapper import GoogleScrapper
+from scrappers.website_scrapper import WebsiteScrapper
