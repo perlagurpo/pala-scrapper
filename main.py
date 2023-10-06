@@ -1,8 +1,7 @@
-from scrappers import GoogleScrapper, WebsiteScrapper
-import logging
 from datetime import datetime
 import json
 
+from scrappers import GoogleScrapper, WebsiteScrapper
 
 def run():
     search_key = input('Ingresa la palabra clave de búsqueda:\n>')
