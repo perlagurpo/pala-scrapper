@@ -15,7 +15,7 @@
 
 ## Crear directorios para archivos
 
-`mkdir files; mkdir files/html; mkdir files/results`
+`mkdir files; mkdir files/html; mkdir files/results; mkdir files/parsed`
 
 # Ejecución
 
